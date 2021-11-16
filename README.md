@@ -14,9 +14,9 @@ I also teach Data Science, Machine Learning and Deep Learning at multiple univer
 
 I am also interested in generative mathematical art.
 <p align="center">
-<a href="https://github.com/rodgzilla/Circle-sieve-of-Eratosthenes" target="blank"><img align="center" src="https://i.imgur.com/Zdqy3to.png" alt="eratosthenes" style="width: 300px;"/></a>  
-<a href="https://github.com/rodgzilla/buddhabrot" target="blank"><img align="center" src="https://i.imgur.com/f85B0iA.png" alt="buddhabrot" style="width: 300px;"/></a>  
-<a href="https://github.com/rodgzilla/multiplication-table" target="blank"><img align="center" src="https://i.imgur.com/tfpItGq.png" alt="multiplication" style="width: 300px;"/></a>  
+<a href="https://github.com/rodgzilla/Circle-sieve-of-Eratosthenes" target="blank"><img align="center" src="https://i.imgur.com/Zdqy3to.png" alt="eratosthenes" style="width: 30%;"/></a>  
+<a href="https://github.com/rodgzilla/buddhabrot" target="blank"><img align="center" src="https://i.imgur.com/f85B0iA.png" alt="buddhabrot" style="width: 30%;"/></a>  
+<a href="https://github.com/rodgzilla/multiplication-table" target="blank"><img align="center" src="https://i.imgur.com/tfpItGq.png" alt="multiplication" style="width: 30%;"/></a>  
 </p>
 
 <!--
